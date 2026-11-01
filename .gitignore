@@ -1,0 +1,26 @@
+# Keil MDK 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.d
+*.crf
+*.axf
+*.lnp
+*.dep
+*.map
+*.lst
+*.htm
+*.iex
+*.sct
+*.bak
+*.uvguix.*
+
+# 运行时文件
+*.log
+*.lock
+EventRecorderStub.scvd
+
+# 系统
+Thumbs.db
+desktop.ini

@@ -1,0 +1,110 @@
+#ifndef __MUSIC_H
+#define __MUSIC_H
+
+
+//  C调   PSC=72-1
+#define LL1  7644
+#define LL2  6810
+#define LL3  6066
+#define LL4  5726
+#define LL4S  5404
+#define LL5  5101
+#define LL6  4544
+#define LL7  4049
+#define L1  3822
+#define L2  3405
+#define L3  3033
+#define L4  2863
+#define L4S  2702
+#define L5  2550
+#define L6  2272
+#define L7  2024
+#define M1  1911
+#define M1S  1803
+#define M2  1702
+#define M2S  1607
+#define M3  1516
+#define M4  1431
+#define M4S  1350
+#define M5  1275
+#define M6  1135
+#define M7  1011
+#define H1  955
+#define H2  851
+#define H3  758
+#define H4  715
+#define H5  637
+#define H6  567
+#define H7  505
+
+//  降B调  PSC=72-1
+//#define L1  4290						
+//#define L2  3822
+//#define L3  3405
+//#define L4  3214
+//#define L5  2863
+//#define L6  2550
+//#define L7  2272
+//#define M1  2144			
+//#define M2  1911
+//#define M3  1702
+//#define M4  1607
+//#define M5  1431
+//#define M6  1275
+//#define M7  1135
+//#define H1  1072				
+//#define H2  955
+//#define H3  851
+//#define H4  803
+//#define H5  715
+//#define H6  637
+//#define H7  567
+
+//  G调   PSC=72-1
+//#define L1  5101
+//#define L2  4544
+//#define L3  4049
+//#define L4  3822
+//#define L5  3405
+//#define L6  3033
+//#define L7  2702
+//#define M1  2550
+//#define M2  2272
+//#define M3  2024
+//#define M4  1911
+//#define M5  1702
+//#define M6  1516
+//#define M7  1350
+//#define H1  1275
+//#define H2  1135
+//#define H3  1011
+//#define H4  955
+//#define H5  851
+//#define H6  758
+//#define H7  675
+
+
+//  A调   PSC=72-1
+//#define L1  4814
+//#define L2  4290
+//#define L3  3822
+//#define L4  3607
+//#define L5  3214
+//#define L6  2863
+//#define L7  2550
+//#define M1  2407
+//#define M2  2144
+//#define M3  1911
+//#define M4  1803
+//#define M5  1607
+//#define M6  1431
+//#define M7  1275
+//#define H1  1203
+//#define H2  1072
+//#define H3  955
+//#define H4  901
+//#define H5  803
+//#define H6  715
+//#define H7  637
+
+#endif
